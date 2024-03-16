@@ -1,2 +1,2 @@
 # daviner23.github.io
-Personal Site
+The code of my personal business card website

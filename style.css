@@ -1,0 +1,46 @@
+/*Main Styles*/
+body {
+    text-align: center;
+    background-image: url(images/clabkgnd.gif);
+    color: white;
+}
+
+td {
+    border: 1px solid white;
+    border-top: 3px double white;
+    padding: 10px;
+}
+
+hr {
+    border: 1px dashed white;
+}
+
+a:link {
+    color: #FF0000;
+}
+
+a:visited {
+    color: #C0C0C0;
+}   
+/*Classes*/
+.title {
+    margin-bottom: 0px;
+    margin-top: 50px;
+    font-size: 48px;
+}
+
+.table_main {
+    text-align: center;
+    margin: 0 auto;
+    width: 33%;
+    border-collapse: collapse;
+    background-image: url(images/black06.gif);
+}
+
+.table_second {
+    text-align: justify;
+    margin: 0 auto;
+    width: 60%;
+    border-collapse: collapse;
+    background-image: url(images/black06.gif);
+}
